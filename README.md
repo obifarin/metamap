@@ -28,6 +28,5 @@ Saved BERTopic topic models.
 
 ## File
 
-embeddings_full_tSNE_uMAP_DDMONYEAR.h5
+Retrieve from Bifarin, O., & Yelluru, V. (2025). Metabolomics Publications in PubMed: Embeddings and Associated Datasets [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15020144
 
-This is the complete embedding for the dataset: 1) It contains PubMed related datasets such as PMID, title, abstract, language, journal_title, pub_year, and authors. 2) The full embeddings (768) generated from PubMedBERT. 3) In addition to uMAP and tSNE embeddings. This will be the go to file to load. 
