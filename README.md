@@ -28,7 +28,7 @@ Contains all jupyter notebooks for the project.
 
 Saved BERTopic topic models.
 
-## File
+## Files
 
 Retrieve from Bifarin, O., & Yelluru, V. (2025). Metabolomics Publications in PubMed: Embeddings and Associated Datasets [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15020144
 
