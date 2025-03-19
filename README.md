@@ -1,4 +1,6 @@
-The goal of this work is to map the landscape of metabolomics research using natural language processing. Paper:  
+The goal of this work is to map the landscape of metabolomics research using natural language processing. 
+
+Preprint: https://www.biorxiv.org/content/10.1101/2025.03.18.643696v1  
 
 ## Colab (Jupyter) Notebooks
 
