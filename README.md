@@ -25,6 +25,8 @@ Contains all jupyter notebooks for the project.
 
 `09-topic-modelling-results.ipynb`: Contains some topic modeling (unpublished) results.
 
+`10-topic-coherence-evaluation.ipynb`: Contains topic coherence evaluation C_v and C_npmi
+
 ## Topic Model
 
 Saved BERTopic topic models.
