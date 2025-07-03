@@ -1,6 +1,6 @@
 The goal of this work is to map the landscape of metabolomics research using natural language processing. 
 
-Preprint: https://pubs.acs.org/doi/10.1021/acs.analchem.5c01672
+Paper: https://pubs.acs.org/doi/10.1021/acs.analchem.5c01672 <br>
 Try out the accompany app: https://metascape.streamlit.app/
 
 ## Colab (Jupyter) Notebooks
